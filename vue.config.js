@@ -3,10 +3,10 @@
 module.exports = {
     publicPath: './', // 基本路径
     outputDir: 'dist', // 输出文件目录
-    // build:{
-    //     assetsPublicPath: '/',
-    //     assetsSubDirectory: 'assets'
-    // },
+    build:{
+        assetsPublicPath: './',
+        assetsSubDirectory: 'assets'
+    },
     pages:{
         index:{
             entry:'src/main.js',
