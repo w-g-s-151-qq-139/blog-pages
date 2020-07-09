@@ -1,0 +1,22 @@
+
+.loginForm{
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 260px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border: solid 1px gray;
+    border-radius: 5px;
+}
+.all{
+    margin: 3px 3% 3px 3%;
+    width: 94%;
+}
+.a-div{
+    width: 30%;
+    float: right;
+}
+a{
+    text-decoration: none;
+}
